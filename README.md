@@ -1,2 +1,2 @@
 # vk
-This is first git repository
+This is my first git repository
